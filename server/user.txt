@@ -1,0 +1,5 @@
+Name: 23MCA20022, Email: abcdsds@gmail.com, Password: $2a$10$3uWHglwPPTTkBq9rm2IS0ubIwOJ8lWN50gSo16BTvvUVrN9khLIii
+Name: PRABHAKAR SHARMA, Email: bdbdd@gmail.com, Password: $2a$10$mBadUTQzoZvpJK5IclxY9ew.Yry39ksfeosx3FS2pvM6N2ACjUgqy
+Name: Harshita Singh, Email: singhharshita9453@gmail.com, Password: $2a$10$TIZU3Cv4LVxocGFQ1JhNwuGqb9uSHFKrDi5eLl/469S/XlE.DNSDi
+Name: Satyam Badoni, Email: Satyam6453@gmail.com, Password: $2a$10$KpqcsKIFFVlVarp5IVQN9Oa3HmiBPxoljbrPJdA7TNtzPv/rN9q/q
+Name: Nikhil, Email: nikhil@gmail.com, Password: $2a$10$2bINdX44QLH8LmPMY.BnFeQV.r.0QLFKSo964EMz.EZS0jy2cMbc.
